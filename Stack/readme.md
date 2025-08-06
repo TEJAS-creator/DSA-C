@@ -8,8 +8,6 @@ This repository contains a clean and well‑documented **C implementation of a s
 
 ---
 
----
-
 ## 🧠 How It Works
 
 1. **`stack.c`** defines:
