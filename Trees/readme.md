@@ -2,14 +2,6 @@
 
 A comprehensive implementation of Binary Search Tree data structure with various operations including insertion, deletion, searching, and traversal methods.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Data Structure](#data-structure)
-- [Functions Reference](#functions-reference)
-- [Compilation & Usage](#compilation--usage)
-- [Complexity Analysis](#complexity-analysis)
-- [Examples](#examples)
-
 ## 🌳 Overview
 
 A Binary Search Tree is a hierarchical data structure where each node has at most two children, and it maintains the following properties:
